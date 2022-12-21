@@ -1,0 +1,2 @@
+# Ignore "credentials.json" and "token.pickle" files
+credentials.json
